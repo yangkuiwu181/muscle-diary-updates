@@ -1,0 +1,10 @@
+{
+  "packageName": "cn.musclediary.app",
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/yangkuiwu181/muscle-diary-updates@0e8321825588abef1a6e066ad43d0f6b31593a36/muscle-diary.apk",
+  "sha256": "ba4fcb4d72dd2b00395bcc54a76b4507b886b318cc97c3bf5aeb8c15369f143a",
+  "sizeBytes": 12440881,
+  "minSdk": 26,
+  "notes": "个人资料页新增 AI 建议入口。按身体资料、全天活动和训练计划建议每日热量、蛋白质、碳水和脂肪，展示估算依据，确认后才应用。"
+}
